@@ -1,0 +1,7 @@
+This is my file to demonstrate best practices.
+Blehsdlkadaskdalkdjaslkdjaslkdjaslkdjalksjdlkasjdajsdkjaslkdjasldkjasl;dkajsdlaksjdas;lkdjas;ldkasjdasl;kdj
+Reading data from the Web
+Beginning data processing...
+Data processing finished.
+Writing data to a database
+Data from the web that has been modified
